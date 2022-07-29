@@ -198,3 +198,11 @@ button {
   font-size: large;
   border-style: solid;
 }
+
+.footer {
+  background-color: #1f2937;
+  color: rgb(226, 226, 226);
+  text-align: center;
+  font-size: 18px;
+  padding: 15px;
+}
