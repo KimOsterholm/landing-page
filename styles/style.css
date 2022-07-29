@@ -159,3 +159,42 @@ button {
   font-style: normal;
   margin-right: 30px;
 }
+
+.c2a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bluebg {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 150px;
+  width: 1000px;
+  margin: 100px;
+  border-radius: 10px;
+  background-color: #3882f6;
+  color: white;
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.sign {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.button2 {
+  color: white;
+  background-color: #3882f6;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  padding: 10px 40px 10px 40px;
+  border-radius: 10px;
+  border-color: white;
+  border-width: 2px;
+  font-size: large;
+  border-style: solid;
+}
